@@ -30,14 +30,14 @@
 @media (max-width:600px) {
 
    .title{
-    font-size: 14vh;
+    font-size: 10vh;
     color: #fff;
 } 
 }
 @media (max-width:420px) {
 
     .title{
-     font-size: 6vh;
+     font-size: 28px;
      color: #fff;
  } 
  }
