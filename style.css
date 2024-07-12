@@ -27,3 +27,18 @@
     background: rgba(0, 0, 139, 0.788);
     color: #fff;
 }
+@media (max-width:600px) {
+
+   .title{
+    font-size: 14vh;
+    color: #fff;
+} 
+}
+@media (max-width:420px) {
+
+    .title{
+     font-size: 10vh;
+     color: #fff;
+ } 
+ }
+ 
